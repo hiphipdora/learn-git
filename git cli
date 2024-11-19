@@ -1,0 +1,3 @@
+Membuat praktik penggunaan Git di Cli:
+- Membuat commit dengan pesan deskriptif menggunakan git commit -m.
+- Memeriksa status perubahan dengan git status dan melihat riwayat commit dengan git log.
