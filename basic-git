@@ -1,5 +1,8 @@
 Memahami dasar git:
 1. Memahami konsep version control dan cara kerja Git.
+- Memahami cara kerja snapshot di Git dibandingkan sistem berbasis delta.
+- Mengenal konsep repository lokal dan remote untuk kolaborasi.
+- Memahami bahwa Git mencatat setiap perubahan dalam commit yang bersifat unik dan permanen.
 2. Memahami istilah penting: repository, commit, branch, dan merge.
 3. Belajar perbedaan antara lokal, staging, dan remote.
 4. Menggunakan perintah dasar: git init, git add, git commit, dan git status.
