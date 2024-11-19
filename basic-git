@@ -1,0 +1,6 @@
+Memahami dasar git:
+1. Memahami konsep version control dan cara kerja Git.
+2. Memahami istilah penting: repository, commit, branch, dan merge.
+3. Belajar perbedaan antara lokal, staging, dan remote.
+4. Menggunakan perintah dasar: git init, git add, git commit, dan git status.
+5. Memahami cara kerja .gitignore untuk mengelola file yang tidak perlu dilacak.
