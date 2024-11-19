@@ -3,6 +3,8 @@ Memahami dasar git:
 - Memahami cara kerja snapshot di Git dibandingkan sistem berbasis delta.
 - Mengenal konsep repository lokal dan remote untuk kolaborasi.
 - Memahami bahwa Git mencatat setiap perubahan dalam commit yang bersifat unik dan permanen.
+- Memahami version control sebagai sistem untuk melacak perubahan file secara historis.
+- Mengetahui perbedaan antara version control terpusat (CVCS) dan terdistribusi (DVCS), seperti Git.
 2. Memahami istilah penting: repository, commit, branch, dan merge.
 3. Belajar perbedaan antara lokal, staging, dan remote.
 4. Menggunakan perintah dasar: git init, git add, git commit, dan git status.
