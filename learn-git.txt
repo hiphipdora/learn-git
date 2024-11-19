@@ -1,6 +1,6 @@
 Mambuat resolusi pembelajaran git:
 1. Menonton video youtube 
 2. Melakukan praktik terhadap video yang telah ditonton
-3. Memahami apa yang dipelajari
-4. Mendapatkan pekerjaan dari git
-5. Memahami git
+3. Mendapatkan pekerjaan dari git
+4. Memahami git
+5. Memahami apa yang dipelajari
